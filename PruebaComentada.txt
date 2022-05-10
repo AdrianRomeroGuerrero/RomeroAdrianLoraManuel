@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Aqu no hay nada
 hola
+=======
+Aquí no hay nada
+Conflicto
+>>>>>>> d60a536a69fc1b530f30537f66e382da2d207fa9
